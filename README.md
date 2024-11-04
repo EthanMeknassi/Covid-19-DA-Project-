@@ -29,6 +29,9 @@ Data was collected from [Our World in Data](https://ourworldindata.org/covid-dea
 
 ### Dashboard
 
+![COVID Dashboard Preview](Covid%20CSV%20Data/Covid%20Dashboard.jpg)
+
+
 The final dashboard can be viewed on Tableau Public: [COVID Dashboard](https://public.tableau.com/app/profile/ethan.meknassi/viz/CovidDashboard_17307590277130/Dashboard1?publish=yes)
 
 ### Technologies Used
